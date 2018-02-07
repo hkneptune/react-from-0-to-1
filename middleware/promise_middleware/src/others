@@ -1,0 +1,43 @@
+function doNothingMiddleware({dispatch, getState}) {
+  return function(next) {
+  	return function(action) {
+  		return next(action);
+  	}
+  }
+}
+
+function createThunkMiddleware(newArguments) {
+  return ({dispatch, getState}) => next => action => {
+  	if(typeof action === 'function') {
+  		return action(dispatch, getState, newArguments);
+  	}
+
+  	return next(action);
+  }
+}
+
+const thunk = createThunkMiddleware();
+export default thunk;
+
+
+//方式1，缺点，不能加其他Store Enhancer
+import {createStore, applyMiddleware} from 'redux';
+import thunkMiddleware from 'redux-thunk'
+
+const configureStore = applyMiddleware(thunkMiddleware)(createStore); 
+const store = configureStore(reducer, initValues);
+
+//方式2
+import {createStore, compose, applyMiddleware} from 'redux';
+import thunkMiddleware from 'redux-thunk'
+
+const win = window;
+const storeEnhancers = compose(
+  applyMiddleware(...middlewares),
+  (win && win.devToolsExtension) ? win.devToolsExtension() : (f) => f,
+);
+
+const store = createStore(reducer, storeEnhancers);
+
+
+

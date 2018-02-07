@@ -1,0 +1,5 @@
+const getCounterPage = (nextState, callback) => {
+	require.ensure([], function(require) {
+		callback(null, require('./pages/CounterPage.js').default);
+	}, 'counter');
+}
