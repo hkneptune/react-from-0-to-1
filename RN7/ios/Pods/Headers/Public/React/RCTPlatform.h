@@ -1,0 +1,5 @@
+XSym
+0065
+6049bc854f2416d6a89a0f3d72b1defc
+../../../../../node_modules/react-native/React/Base/RCTPlatform.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

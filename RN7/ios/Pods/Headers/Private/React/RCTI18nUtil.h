@@ -1,0 +1,5 @@
+XSym
+0068
+f115a40c7e3505abe4f52eda115a2e8b
+../../../../../node_modules/react-native/React/Modules/RCTI18nUtil.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

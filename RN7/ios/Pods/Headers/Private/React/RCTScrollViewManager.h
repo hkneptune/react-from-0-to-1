@@ -1,0 +1,5 @@
+XSym
+0075
+fc3fc3c4a6e6304f16b8e43ce8b1cc38
+../../../../../node_modules/react-native/React/Views/RCTScrollViewManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

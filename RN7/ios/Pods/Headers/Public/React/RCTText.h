@@ -1,0 +1,5 @@
+XSym
+0065
+9e1f43997f2c5db32b931c3b2b9bee4a
+../../../../../node_modules/react-native/Libraries/Text/RCTText.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

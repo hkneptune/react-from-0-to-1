@@ -1,0 +1,14 @@
+platform :ios, '10.2'
+project 'RN7.xcodeproj'
+
+target 'RN7' do
+
+pod 'React', :path => '../node_modules/react-native', :subspecs => [
+  'Core',
+  'RCTImage',
+  'RCTNetwork',
+  'RCTText',
+  'RCTWebSocket',
+]
+
+end

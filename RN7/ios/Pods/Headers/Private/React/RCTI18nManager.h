@@ -1,0 +1,5 @@
+XSym
+0071
+9a5de23b189e841772bb1dda91a2a37a
+../../../../../node_modules/react-native/React/Modules/RCTI18nManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

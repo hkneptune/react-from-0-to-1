@@ -1,0 +1,5 @@
+XSym
+0069
+bd9e2f552825e72510e748ecd333c070
+../../../../../node_modules/react-native/React/Base/RCTModuleMethod.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

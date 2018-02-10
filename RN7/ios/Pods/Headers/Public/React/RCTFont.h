@@ -1,0 +1,5 @@
+XSym
+0062
+a81dc7f35bda9f0b8568bad1560f5878
+../../../../../node_modules/react-native/React/Views/RCTFont.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

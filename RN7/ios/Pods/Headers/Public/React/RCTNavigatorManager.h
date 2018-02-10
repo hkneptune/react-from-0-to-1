@@ -1,0 +1,5 @@
+XSym
+0074
+81c0cd84a7e079574e7ba77fadef907b
+../../../../../node_modules/react-native/React/Views/RCTNavigatorManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

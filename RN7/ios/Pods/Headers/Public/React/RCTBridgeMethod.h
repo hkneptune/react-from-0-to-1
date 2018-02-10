@@ -1,0 +1,5 @@
+XSym
+0069
+4fd6d19a70dadc133bfe2119217f6944
+../../../../../node_modules/react-native/React/Base/RCTBridgeMethod.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

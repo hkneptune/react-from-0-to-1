@@ -1,0 +1,37 @@
+PODS:
+  - React (0.38.0):
+    - React/Core (= 0.38.0)
+  - react-native-sqlite-storage (3.2.2):
+    - React
+  - React/Core (0.38.0)
+  - React/RCTImage (0.38.0):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTNetwork (0.38.0):
+    - React/Core
+  - React/RCTText (0.38.0):
+    - React/Core
+  - React/RCTWebSocket (0.38.0):
+    - React/Core
+
+DEPENDENCIES:
+  - react-native-sqlite-storage (from `../node_modules/react-native-sqlite-storage`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: "../node_modules/react-native"
+  react-native-sqlite-storage:
+    :path: "../node_modules/react-native-sqlite-storage"
+
+SPEC CHECKSUMS:
+  React: 3cdd13d7c8f6ad5c20216aa83e032f0ce4087944
+  react-native-sqlite-storage: 64ac41f5cc8a3676bc54b39ca084851fc16e75bc
+
+PODFILE CHECKSUM: d913de9405e951f4ab56425ec9e6a58cbebf934e
+
+COCOAPODS: 1.0.1

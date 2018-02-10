@@ -1,0 +1,5 @@
+XSym
+0067
+79103b01f869d5bea2c0d89ded814769
+../../../../../node_modules/react-native/React/Base/RCTTouchEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

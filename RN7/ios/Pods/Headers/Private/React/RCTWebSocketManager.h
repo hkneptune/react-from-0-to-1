@@ -1,0 +1,5 @@
+XSym
+0082
+a56c279374b5979f95c557b587726252
+../../../../../node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

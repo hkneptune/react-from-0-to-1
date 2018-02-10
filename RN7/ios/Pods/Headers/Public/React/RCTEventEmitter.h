@@ -1,0 +1,5 @@
+XSym
+0072
+f07b7df0722d7c94a77e347d5abc4bf2
+../../../../../node_modules/react-native/React/Modules/RCTEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

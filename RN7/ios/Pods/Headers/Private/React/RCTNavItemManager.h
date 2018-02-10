@@ -1,0 +1,5 @@
+XSym
+0072
+f58dc02f533d00a9598f8bbb976206d5
+../../../../../node_modules/react-native/React/Views/RCTNavItemManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

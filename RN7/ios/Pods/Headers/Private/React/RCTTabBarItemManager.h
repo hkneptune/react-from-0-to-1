@@ -1,0 +1,5 @@
+XSym
+0075
+d84eb6e282078badd2b7cf9454f2363e
+../../../../../node_modules/react-native/React/Views/RCTTabBarItemManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

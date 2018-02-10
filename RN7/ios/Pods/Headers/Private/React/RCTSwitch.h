@@ -1,0 +1,5 @@
+XSym
+0064
+e062497c91e551487d62c795cc1c5560
+../../../../../node_modules/react-native/React/Views/RCTSwitch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
